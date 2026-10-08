@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software or its data, please cite it as below."
+type: software
+title: "AdaptiveQKE: Context-Aware Hybrid Key Exchange for TLS Channels"
+abstract: >-
+  A client-side, policy-driven mechanism that selects among ML-KEM and ECDH
+  hybrid key-exchange groups before a TLS 1.3 handshake, based on measured
+  round-trip time and endpoint resource limits, with the testbed and recorded
+  measurements used to evaluate it.
+authors:
+  - family-names: Ajjour
+    given-names: Heba
+    affiliation: "University College of Applied Sciences (UCAS), Gaza"
+  - family-names: Abdalaal
+    given-names: Weaam
+    affiliation: "University College of Applied Sciences (UCAS), Gaza"
+  - family-names: Nasrallah
+    given-names: Hala
+    affiliation: "University College of Applied Sciences (UCAS), Gaza"
+  - family-names: Rajab
+    given-names: Farah
+    affiliation: "University College of Applied Sciences (UCAS), Gaza"
+contact:
+  - family-names: Ajjour
+    given-names: Heba
+    email: "hajjour27@gmail.com"
+    website: "https://github.com/HebaAj"
+repository-code: "https://github.com/HebaAj/AdaptiveQKE"
+license: MIT
+keywords:
+  - post-quantum cryptography
+  - hybrid key exchange
+  - TLS 1.3
+  - ML-KEM
+  - adaptive security
