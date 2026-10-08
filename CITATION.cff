@@ -33,3 +33,19 @@ keywords:
   - TLS 1.3
   - ML-KEM
   - adaptive security
+preferred-citation:
+  type: thesis
+  title: "AdaptiveQKE: Context-Aware Hybrid Key Exchange for TLS Channels"
+  authors:
+    - family-names: Ajjour
+      given-names: Heba
+    - family-names: Abdalaal
+      given-names: Weaam
+    - family-names: Nasrallah
+      given-names: Hala
+    - family-names: Rajab
+      given-names: Farah
+  year: 2026
+  thesis-type: "Bachelor's thesis"
+  institution:
+    name: "University College of Applied Sciences (UCAS), Gaza"
