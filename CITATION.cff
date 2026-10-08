@@ -27,6 +27,7 @@ contact:
     website: "https://github.com/HebaAj"
 repository-code: "https://github.com/HebaAj/AdaptiveQKE"
 license: MIT
+doi: 10.5281/zenodo.23244638
 keywords:
   - post-quantum cryptography
   - hybrid key exchange
@@ -47,5 +48,6 @@ preferred-citation:
       given-names: Farah
   year: 2026
   thesis-type: "Bachelor's thesis"
+  url: "https://github.com/HebaAj/AdaptiveQKE/blob/main/docs/AdaptiveQKE-thesis.pdf"
   institution:
     name: "University College of Applied Sciences (UCAS), Gaza"

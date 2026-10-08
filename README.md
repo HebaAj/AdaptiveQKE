@@ -1,5 +1,7 @@
 # AdaptiveQKE
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23244638.svg)](https://doi.org/10.5281/zenodo.23244638)
+
 **Context-Aware Hybrid Key Exchange for TLS Channels**
 
 AdaptiveQKE is a graduation research project that tests whether a TLS 1.3 client can choose its hybrid post-quantum key-exchange group for each connection, from measured network delay and device resource limits, instead of using one fixed group everywhere. The choice is made on the client before the handshake, and the TLS 1.3 handshake itself is not modified.
@@ -185,6 +187,6 @@ The full thesis is available in [`docs/AdaptiveQKE-thesis.pdf`](docs/AdaptiveQKE
 
 ## Citation and license
 
-Citation details are in [`CITATION.cff`](CITATION.cff) (GitHub shows a "Cite this repository" button).
+Citation details are in [`CITATION.cff`](CITATION.cff) (GitHub shows a "Cite this repository" button). The archived release is on Zenodo: [10.5281/zenodo.23244638](https://doi.org/10.5281/zenodo.23244638).
 
 The code is released under the [MIT License](LICENSE), copyright Heba Ajjour and co-authors. The recorded datasets in `results/` are released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
